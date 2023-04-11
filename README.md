@@ -1,4 +1,4 @@
-## Bem vindo! Eu sou a Ana Vitória
+## Bem vindo(a)! Eu sou a Ana Vitória
 
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales. 
 - 📚 Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas pela Fatec Jales!
