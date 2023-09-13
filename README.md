@@ -26,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=5113bb)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=5113bb)
 ![FIGMA](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=5113bb)
+![CSHAFP](https://img.shields.io/badge/CSHARP-000?style=for-the-badge&logo=git&logoColor=5113bb)
 [![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=5113bb)](https://git-scm.com/doc)
 
 ## Conecte-se Comigo
