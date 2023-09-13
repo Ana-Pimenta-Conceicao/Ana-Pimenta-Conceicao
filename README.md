@@ -1,15 +1,32 @@
-## Bem vindo(a)! Eu sou a Ana Vitória
+<div align="center"><h2>Bem vindo(a)! Eu sou a Ana Vitória</h2></div>
 
-- 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales. 
-- 📚 Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas pela Fatec Jales!
-- 🎨 Dedico meu tempo livre pra aprender sobre Design Digital e alguns tópicos do Marketing Digital (estudo de personas, criação de contéudo, gerenciamento de mídia social e outros assuntos relacionados).
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<div align="center">
+<p align="left">
+  👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
+</p> 
+<p align="left">
+  📚 Atualmente, estou fazendo graduação em Análise e Desenvolvimento de Sistemas pela Fatec Jales!
+</p> 
+<p align="left">
+  🎨 Dedico meu tempo livre pra aprender sobre Design Digital e alguns tópicos do Marketing Digital (estudo de personas, criação de contéudo, gerenciamento de mídia social e outros assuntos relacionados).
+</p> 
+
+##
+
+<div align="left">
+  <a href="https://github.com/Gui-Angelo-Silva/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Pimenta-Conceicao&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=b554bf&hide_border=true&border_radius=15&bg_color=0d1117&text_color=dfd0ef&title_color=dfd0ef"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Pimenta-Conceicao&layout=compact&langs_count=7&theme=transparent&icon_color=b554bf&hide_border=true&border_radius=15&title_color=dfd0ef&bg_color=0d1117"/>
+  </a>
+</div>
+
+<!--<div align="left">
   <a href="https://github.com/Ana-Pimenta-Conceicao/">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ana-Pimenta-Conceicao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Pimenta-Conceicao&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+</div>-->
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
