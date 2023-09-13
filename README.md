@@ -1,8 +1,8 @@
-<div align="center"><h2>Bem vindo(a)! Eu sou a Ana Vitória</h2></div>
+<div align="center"><h1>Bem vindo(a)! Eu sou a Ana Vitória</h1></div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left">
+<p align="left" style="font-size: 10">
   👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
 </p> 
 <p align="left">
@@ -10,9 +10,14 @@
 </p> 
 <p align="left">
   🎨 Dedico meu tempo livre pra aprender sobre Design Digital e alguns tópicos do Marketing Digital (estudo de personas, criação de contéudo, gerenciamento de mídia social e outros assuntos relacionados).
-</p> 
+</p>
 
-##
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=5113bb)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=5113bb)
+![FIGMA](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=5113bb)
+[![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=5113bb)](https://git-scm.com/doc)
 
 <div align="left">
   <a href="https://github.com/Gui-Angelo-Silva/">
