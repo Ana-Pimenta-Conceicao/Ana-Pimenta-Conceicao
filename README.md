@@ -19,6 +19,8 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=figma&logoColor=5113bb)
 [![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=5113bb)](https://git-scm.com/doc)
 
+## GitHub Stats
+
 <div align="left">
   <a href="https://github.com/Gui-Angelo-Silva/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Pimenta-Conceicao&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=5113bb&hide_border=true&border_radius=15&bg_color=0d1117&text_color=dfd0ef&title_color=dfd0ef"/>
