@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="https://github.com/Ana-Pimenta-Conceicao/">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Pimenta-Conceicao&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=5113bb&hide_border=true&border_radius=15&bg_color=0d1117&text_color=dfd0ef&title_color=dfd0ef"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana-Pimenta-Conceicao&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=5113bb&hide_border=true&border_radius=15&bg_color=0d1117&text_color=dfd0ef&title_color=dfd0ef"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Pimenta-Conceicao&layout=compact&langs_count=7&theme=transparent&icon_color=b554bf&hide_border=true&border_radius=15&title_color=dfd0ef&bg_color=0d1117"/>
   </a>
 </div>
